@@ -10,11 +10,11 @@
 
 ## Using
 ### Train:
-- `detect_poofing_attacks_train.ipynb`
+- `detect_spoofing_attacks_train.ipynb`
 - Kaggle에 Import하여 진행
 
 ### Test:
-- `detect_poofing_attacks_test.ipynb`
+- `detect_spoofing_attacks_test.ipynb`
 - Kaggle에 Import하여 진행
 
 ## Methods Explain
